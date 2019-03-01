@@ -11,7 +11,7 @@ input data:
 	}
 }
 
-* output '\n'
+***** output *****
 
 
 {
