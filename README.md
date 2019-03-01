@@ -11,9 +11,9 @@ input data:
 	}
 }
 
-/*
-* output
-*/
+* output '\n'
+
+
 {
     "resonse": {
         "status": "200",
